@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<reviews>
+  <review>
+    <review_id>1</review_id>
+    <reviewer_name>John Doe</reviewer_name>
+    <rating>5</rating>
+    <review_text>Great product!</review_text>
+    <review_timestamp>2025-01-01T12:00:00Z</review_timestamp>
+    <product_id>101</product_id>
+  </review>
+  <review>
+    <review_id>2</review_id>
+    <reviewer_name>Jane Smith</reviewer_name>
+    <rating>4</rating>
+    <review_text>Good value for money.</review_text>
+    <review_timestamp>2025-01-02T15:30:00Z</review_timestamp>
+    <product_id>102</product_id>
+  </review>
+</reviews>
